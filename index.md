@@ -35,4 +35,4 @@ Use the "Smart Editor" button in the top left of the reference map application t
 Use the "Report" button to generate the report. Adjust as necessary in Microsoft Word.  
 
 ### 4. Complete missing fields in spreadsheet (Google Sheets)  
-Typically this is only `Report #`, `Parcel`, `Map`, and `Zone.   
+Typically this is only `Report #`, `Parcel`, `Map`, and `Zone`.   

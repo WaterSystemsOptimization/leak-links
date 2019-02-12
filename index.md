@@ -1,8 +1,8 @@
 #### Nashville
-[Survey](https://arcg.is/S8ii9)
-[Survey Website to access and edit data](http://tinyurl.com/yyvowrgu)
-[Google Sheet](#)
-[Reference map](http://tinyurl.com/y3c48je5)
+[Survey](https://arcg.is/S8ii9)  
+[Survey Website to access and edit data](http://tinyurl.com/yyvowrgu)  
+[Google Sheet](#)  
+[Reference map](http://tinyurl.com/y3c48je5)  
 
 ### South Coast
 
@@ -12,7 +12,10 @@
 ### 1. Start and submit survey on site (Survey123 App)
 Use the Survey123 application on your tablet or phone to start and submit a survey for every leak. Minimum required fields are:
 
-- Location using map (**Remember**, you can automatically get address by holding down on the map)
+- Location using map 
+
+**Remember**, you can automatically get address by holding down on the map  
+
 - Picture 1 (Site)
 - Picture 2 (Closeup)
 - Remaining fields visible in the survey (excluding "Office Fields" and "Geographic Information" group)

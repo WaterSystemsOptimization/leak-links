@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+#### Nashville
+[Survey](https://arcg.is/S8ii9)
+[Survey Website to access and edit data](http://tinyurl.com/yyvowrgu)
+[Google Sheet](#)
+[Reference map](http://tinyurl.com/y3c48je5)
 
-You can use the [editor on GitHub](https://github.com/WaterSystemsOptimization/leak-links/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### South Coast
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### La Habra
 
-### Markdown
+# General Process
+### 1. Start and submit survey on site (Survey123 App)
+Use the Survey123 application on your tablet or phone to start and submit a survey for every leak. Minimum required fields are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Location using map (**Remember**, you can automatically get address by holding down on the map)
+- Picture 1 (Site)
+- Picture 2 (Closeup)
+- Remaining fields visible in the survey (excluding "Office Fields" and "Geographic Information" group)
 
-```markdown
-Syntax highlighted code block
+### 2. Fill out remaining fields in office (Survey123 Website)
+Log on to the Survery123 website and navigate to the "Data" page. 
 
-# Header 1
-## Header 2
-### Header 3
+### 3. Generate report (Survey123 Website)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WaterSystemsOptimization/leak-links/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 4. Complete record in spreadsheet (Google Sheets)
